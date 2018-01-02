@@ -1,0 +1,18 @@
+场景一
+父类：杯子类 Glass
+子类：保温杯 Vacuum cup, 水杯 cup
+多态的方法（hold water）：保温杯的水是热的，水杯装的水是冷的
+
+
+
+场景二
+父类：学生类 Student
+子类：本科生undergraduate   研究生Graduate  
+多态的方法（study）：本科生学习  研究生有对应的研究方向
+
+
+
+场景三
+父类：电子产品类 Electronic 
+子类：手机mobile 电视机Television
+多态的方法（watch size）：手机尺寸小  电视机尺寸大
